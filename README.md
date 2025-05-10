@@ -53,8 +53,3 @@ In `main.dart`, we:
 
 ---
 
-4. Notes
-
-This project demonstrates good use of Object-Oriented Programming (OOP) principles.
-Each class has clear responsibility, and the code is modular and easy to expand in the future.
-
